@@ -1,2 +1,2 @@
 # AndroidToastLib
-A wrapper for showing android-native Toast message
+A wrapper for android-native Toast message
